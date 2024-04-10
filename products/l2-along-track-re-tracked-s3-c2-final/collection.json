@@ -36,7 +36,7 @@
     "stac_extensions": [
       "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
     ],
-    "title": "HYDROCOASTAL SAR Altimeter L2E: Level 2 Extended Product (Final Product)",
+    "title": "HYDROCOASTAL SAR Altimeter L2E Final Product: Level 2 Extended Product. L2 data sets for coastal zone and inland water for 25 regions.",
     "osc:themes": [
       "Oceans",
       "Land"
